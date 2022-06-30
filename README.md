@@ -6,7 +6,7 @@ Le script est optimisé à 0.00ms (idle)
 
 ----------------
 
-Le script est très bien optimisable !
+Le script est très bien configurable !
 
 ----------------
 
